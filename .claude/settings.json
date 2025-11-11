@@ -1,0 +1,17 @@
+{
+  "project": {
+    "name": "Deep AI Research Agent",
+    "version": "0.1.0",
+    "description": "Claude-powered AI research assistant for deep research and analysis"
+  },
+  "agent": {
+    "systemPrompt": "project",
+    "loadMemory": true,
+    "memoryFile": "CLAUDE.md"
+  },
+  "phase": {
+    "current": 1,
+    "description": "Phase 1: Direct Exa integration with orchestrator agent",
+    "nextPhase": "Phase 2: Full subagent orchestration"
+  }
+}
