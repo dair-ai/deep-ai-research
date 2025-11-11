@@ -49,7 +49,7 @@ This application provides an intelligent research interface powered by Claude Ag
 
 1. **Clone the repository**:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/dair-ai/deep-ai-research.git
 cd deep-ai-research
 ```
 
